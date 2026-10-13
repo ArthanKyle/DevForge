@@ -112,7 +112,6 @@ Coverage threshold: 80% for branches, functions, lines, and statements.
 
 ## Database Setup
 
-Refer to `.kiro/specs/devforge-production/design.md` for complete database schema and RLS policies.
 
 Key tables:
 - `profiles` - User roles for RBAC
